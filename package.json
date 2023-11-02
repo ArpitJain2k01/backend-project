@@ -1,0 +1,11 @@
+{
+  "name": "chai_or_backend-project",
+  "version": "1.0.0",
+  "description": "It's a production level backend project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arpit Jain",
+  "license": "ISC"
+}
